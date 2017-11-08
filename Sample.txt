@@ -3,3 +3,4 @@ Commit: 커밋
 Push: 푸시
 Clone: 복제
 Pull: 가져오기
+Merge: 병합
