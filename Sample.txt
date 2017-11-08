@@ -1,2 +1,3 @@
-¿ø¼þÀÌµµ ÀÌÇØÇÒ ¼ö ÀÖ´Â Git ¸í·É¾î!
-Commit: Ä¿¹Ô
+ì›ìˆ­ì´ë„ ì´í•´í•  ìˆ˜ ìžˆëŠ” Git ëª…ë ¹ì–´!
+Commit: ì»¤ë°‹
+Push: í‘¸ì‹œ
